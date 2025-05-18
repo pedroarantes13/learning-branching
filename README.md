@@ -11,3 +11,9 @@ Lista de frutas:
 - Maçã
 - Pera
 - Uva
+
+Lista de animais:
+
+- Cão
+- Gato
+- Morcego
